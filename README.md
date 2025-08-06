@@ -46,7 +46,7 @@ I gained hands-on experience in the following key concepts:
 
 ### ✅ Status
 
-✔️ Course Completed
-✔️ Cousera Free Trial so certificate not awarded but i accessed all vedios and assignemnt and get whole knowledge 
+* ✔️ Course Completed
+* ✔️ Cousera Free Trial so certificate not awarded but i accessed all vedios and assignemnt and get whole knowledge 
 
 
