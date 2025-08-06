@@ -40,10 +40,7 @@ I gained hands-on experience in the following key concepts:
 
 
 
-![Score](Assets/Imaging Certificate.png)
-
-
----
+![Score](https://github.com/ThamilezaiAnanthakumar/Medical-Imaging-Course-Coursera-/blob/main/Assets/Imaging%20Certificate.png?raw=true)
 
 
 
