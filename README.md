@@ -40,7 +40,7 @@ I gained hands-on experience in the following key concepts:
 
 
 
-![Score ](insert-your-image-link-here)
+![Score ]('Assets/Imaging Certificate.png')
 
 
 ---
