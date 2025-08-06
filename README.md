@@ -40,7 +40,7 @@ I gained hands-on experience in the following key concepts:
 
 
 
-![Score ]('Assets/Imaging Certificate.png')
+![Score ](Assets/Imaging Certificate.png)
 
 
 ---
