@@ -1,6 +1,3 @@
-Thanks! Based on what you shared, here's a polished version of your GitHub `README.md` description, including a placeholder for your screenshot.
-
----
 
 ## 📚 Medical Imaging Course — Coursera
 
